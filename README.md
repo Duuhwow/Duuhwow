@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/Duuhwow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duuhwow&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duuhwow&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=duuhwow&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duuhwow&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Rafa-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+<img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Rafa-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   
 
   
