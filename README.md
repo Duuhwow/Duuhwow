@@ -11,7 +11,7 @@
 </div>
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<i class="devicon-linux-plain"></i>
 <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
 
 
