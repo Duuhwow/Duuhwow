@@ -1,7 +1,7 @@
 ## Hello there! Eu sou o Eduardo👋
 
 - 🔭 Em processo de graduação em ADS e especialização em Engenharia de Dados
-- 🌱 Em busca de novos conhecimentos e experiencias 
+- 🌱 Em busca de novos conhecimentos e experiências 
 - 📖 Fazendo o melhor nas condições que se tem, enquanto não se tem condições melhores para fazer melhor ainda!
 
 <div align="center">
