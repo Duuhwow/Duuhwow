@@ -1,8 +1,8 @@
 ## Hello there! Eu sou o Eduardo👋
 
-- 🔭 Hoje estou trabalhando com processo de produção
-- 🌱 Estou aprendendo sobre ciência de dados
-- 📖 Estou me graduando em Analise e Desenvolvimento de Sistemas pela faculdade Descomplica
+- 🔭 Em processo de graduação em ADS e especialização em Engenharia de Dados
+- 🌱 Em busca de novos conhecimentos e experiencias 
+- 📖 Fazendo o melhor nas condições que se tem, enquanto não se tem condições melhores para fazer melhor ainda!
 
 <div align="center">
   <a href="https://github.com/Duuhwow">
