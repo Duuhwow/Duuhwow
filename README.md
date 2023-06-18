@@ -1,4 +1,4 @@
-### Olá, sou Eduardo! 👋
+### Hello there, sou Eduardo! 👋
 
 Bem-vindo ao meu perfil do GitHub!
 
