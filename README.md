@@ -32,7 +32,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 <a href="https://www.linkedin.com/in/eduardo-ferreira-rocha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<a href="https://www.instagram.com/duuhgomes10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 <br><br>
 Fique à vontade para explorar meus repositórios e projetos!
